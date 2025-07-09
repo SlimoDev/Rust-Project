@@ -1,0 +1,7 @@
+[package]
+name = "Juego_texto_thriller"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+soloud = "1.1"
